@@ -19,3 +19,10 @@ Cette application de TP permet de gérer des comptes bancaires en utilisant JAX-
 - **Jersey** pour la prise en charge de JAX-RS
 
 ## Tests de l'API
+
+## Video 
+
+https://github.com/user-attachments/assets/628f963e-54ce-4ccb-9349-805220394ac4
+
+
+[![Video Preview]](DIRECT_VIDEO_LINK_FROM_ISSUE)
